@@ -5,7 +5,7 @@
 - 🌱 My current research focuses on **AI Safety, LLMs, and EGT**, with an interest in extending to **multimodal AI** to better understand and mitigate risks in advanced models.  
 - 🤝 I am open to collaborations on projects involving **LLMs, large-scale model training, multimodal systems, AI safety and responsible AI development**.
 - ✨ When I am not coding or researching, I love **expanding tech communities**. I currently serve as the **Chair of the ACM Local Mentoring Committee**, supporting local tech organizers across the globe in **fostering growth in computing communities**.   
-- 📫 You can reach me [here](https://linktr.ee/graceufeoshi)
+- 📫 You can reach me [here](https://linkedin.com/in/graceufeoshi)
 
 <!---
 IbukunGracey/IbukunGracey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
